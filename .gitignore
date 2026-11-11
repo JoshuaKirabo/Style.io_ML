@@ -1,0 +1,11 @@
+# People's photos stay on this machine. Friends said yes to us using them, not to them being on GitHub.
+data/
+results/
+
+# Plans and notes never go in a public repo.
+PLAN.md
+
+# Rebuilt any time with `uv sync`.
+.venv/
+__pycache__/
+.DS_Store
